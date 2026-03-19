@@ -6,7 +6,7 @@ int main() {
       if(a%i==0 && b%i==0){
           gcd=i;
       }
-  }
+  }  
    printf("GCD:%d",gcd);
    return 0;
 }
