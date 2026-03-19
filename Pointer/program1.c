@@ -12,4 +12,4 @@ int main(){
     swap(&a,&b);
     printf("After swap:%d %d\n",a,b);
     return 0;
-}
+}  
