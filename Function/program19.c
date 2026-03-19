@@ -4,7 +4,7 @@ int power(int a, int b){
         return 1;
     else
         return a * power(a, b - 1);
-}
+} 
 int main(){
     int a, b, result;
     scanf("%d %d", &a, &b);
