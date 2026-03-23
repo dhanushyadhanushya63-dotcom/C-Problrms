@@ -16,7 +16,7 @@ int main() {
       break;
       default:
       printf("Invalid");
-  }
+  } 
   printf("Fare ₹%d",fare);
 return 0;
 }
