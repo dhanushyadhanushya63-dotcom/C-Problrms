@@ -17,11 +17,11 @@ int main() {
                even++;
            }else{
                odd++;
-           }
+           } 
        }
         if(even==odd){
            count++;
-          }
+          } 
    }
    printf("%d",count);
     return 0;
