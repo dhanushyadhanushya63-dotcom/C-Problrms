@@ -5,7 +5,7 @@ int main() {
  int sum=0;
  for(;n!=0;n=n/10){
      int rem=n%10;
-     sum=sum+rem;
+     sum=sum+rem; 
  }
  printf("Sum of Digits:%d",sum);
  return 0;
