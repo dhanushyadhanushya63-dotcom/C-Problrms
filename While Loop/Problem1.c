@@ -3,7 +3,7 @@ int main() {
   int n;
   scanf("%d",&n);
   int i=0;
-  int noise=0;
+  int noise=0; 
   int violations=0;
   int currentStreak=0;
   int longestStreak=0;
