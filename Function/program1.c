@@ -6,7 +6,7 @@ float simpleIntrest(int p,int r,int t){
 }
 int main(){
     int p,r,t;
-    float result;
+    float result; 
     scanf("%d %d %d",&p,&r,&t);
     result=simpleIntrest(p,r,t);
     printf("%.2f",result);
