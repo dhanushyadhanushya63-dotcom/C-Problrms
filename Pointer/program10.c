@@ -2,7 +2,7 @@
 int main() {
     char str[200];
     char *p;
-    int count=1;
+    int count=1; 
     fgets(str,sizeof(str),stdin);
     p=str;
     while(*p!='\0'){
