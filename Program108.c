@@ -6,7 +6,7 @@ int main() {
   int lateFee=0;
   switch(bookType){
       case 1:
-      lateFee=daysLate*2;
+      lateFee=daysLate*2; 
       break;
       case 2:
        lateFee=daysLate*5;
