@@ -9,7 +9,7 @@ int main() {
         break;
         case 2:
         MembershipFee=4000;
-        break;
+        break; 
         case 3:
         MembershipFee=7000;
         break;
