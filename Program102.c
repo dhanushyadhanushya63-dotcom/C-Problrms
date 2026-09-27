@@ -7,7 +7,7 @@ int main() {
       case 1:
       charge=40;
       break;
-      case 2:
+      case 2: 
       charge=120;
       break;
       case 3:
